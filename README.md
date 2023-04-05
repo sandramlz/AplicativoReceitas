@@ -1,4 +1,1 @@
-# AppReceitas
-# AppReceitasReact
-# AppReceitasReact
 # AplicativoReceitas
