@@ -1,3 +1,4 @@
 # AppReceitas
 # AppReceitasReact
 # AppReceitasReact
+# AplicativoReceitas
